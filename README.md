@@ -1,4 +1,4 @@
-# A comparison of Topic modeling methods : LDA, NMF, Top2Vec, BERTopic to Korean Twitter Posts on COVID-19 vaccine discourse.
+# A Comparison of Topic modeling methods : LDA, NMF, Top2Vec, BERTopic to Korean Twitter Posts on COVID-19 vaccine discourse.
 
 # Dataset
 Collect from Twitter using API 
