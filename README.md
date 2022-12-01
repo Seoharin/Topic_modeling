@@ -6,12 +6,12 @@ Collect from Twitter using API
 - Duration : 2021-02-01 ~ 2022-07-31
 
 # Preprocessing
-- Common 
+- [Common] 
 Remove retwit, advertise, news, duplicate
 Replace abbreviation
 Correct spacing, grammer : py-hanspell [https://github.com/ssut/py-hanspell.git]
 
-- LDA, NMF
+- [LDA, NMF]
 Remove english, number, unknow characters
 
 
