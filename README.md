@@ -7,7 +7,7 @@ Collect from Twitter using API (2022.08.17-08.18)
 
 # Preprocessing
 - [Common] 
-Remove retwit, advertise, news, duplicate
+Remove retweet, advertise, news, duplicate
 Replace abbreviation
 Correct spacing, grammer : py-hanspell [https://github.com/ssut/py-hanspell.git]
 
